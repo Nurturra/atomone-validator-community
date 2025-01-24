@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Nurturra   | https://nurturra.zone  |   | Canada  | https://github.com/Nurturra  | nurturagrowth@gmail.com  | nurturra  | 0C31873A9A4FAA449534EA427392984C0F6315D9E44BA1FE83E544E19CD8F801  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
